@@ -1,0 +1,4 @@
+github.com/muesli/go-pkg-rss v0.0.0-20190525111521-fde6a0b65105 h1:tCAyUYQVOHr3hHSNEz8W+2GUpyC2y9KENThtBTUCw1E=
+github.com/muesli/go-pkg-rss v0.0.0-20190525111521-fde6a0b65105/go.mod h1:asRQ3kBaWU1Dtidbg30iByH0cWAE9ZzVBHbozpVBtCM=
+github.com/muesli/go-pkg-xmlx v0.0.0-20151201012946-76f54ee73233 h1:BpRRQx7DiGCvj3G9ioAnzesXNaF+TXZO1Y7Za1GzC9A=
+github.com/muesli/go-pkg-xmlx v0.0.0-20151201012946-76f54ee73233/go.mod h1:fuQ3qbkN+TpT4HAUW6IoYwf5qJHU/Mac+jPoTMb1i/4=
